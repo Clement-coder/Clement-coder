@@ -16,7 +16,7 @@ I'm a software developer specializing in building scalable web applications and 
 I enjoy working with diverse teams and contributing to open-source projects. If you’re interested in collaborating or want to connect, feel free to reach out!
 
 ## 📫 Contact
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [https://www.linkedin.com/in/clement-raymond-861154335/](#)
 - Email: [chinexzy37@gmail.com](mailto:chinexzy37@gmail.com)
 
 ---
