@@ -114,12 +114,17 @@ const clement = {
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
-| **Foodra Platform** | Blockchain-powered AgriTech — farmer identity, AI credit scoring, market access | Next.js · Solidity · Web3 | [Repo](https://github.com/Clement-coder/foodra-platform) · [Live](https://foodra-platform.vercel.app/) |
+| **Foodra Platform** | Blockchain-powered AgriTech — farmer identity, AI credit scoring, market access | Next.js · Solidity · Web3 | [Repo](https://github.com/Clement-coder/foodra-platform) · [Live](https://www.foodramarket.com/) |
 | **CeloTasks** | MiniPay-compatible micro-task protocol on Celo with on-chain reputation | Celo · Solidity · TypeScript | [Repo](https://github.com/Clement-coder/CeloTasks) · [Live](https://celo-tasks.vercel.app/) |
 | **TaskFlow** | Decentralized task OS for teams on Stacks with wallet-native collaboration | Stacks · Next.js · TypeScript | [Repo](https://github.com/Clement-coder/TaskFlow) · [Live](https://task-flow-alpha-olive.vercel.app/) |
-| **Cipherlink** | Secure message encryption & sharing with local history tracking | React · Encryption | [Repo](https://github.com/Clement-coder/cipherlink) · [Live](https://cipherlink-delta.vercel.app/) |
-| **Kizo Gasless Wallet** | Starknet-native gasless wallet via Account Abstraction (ERC-4337) | Starknet · Cairo · Next.js | [Repo](https://github.com/Clement-coder/Kezo-Gasless-Wallet) |
 | **Plateau Potatoes** | Farm-to-doorstep e-commerce for fresh produce from Jos Plateau | React · Node.js | [Repo](https://github.com/Clement-coder/Plateau-Potatoes) · [Live](https://plateau-potatoes-web.vercel.app/) |
+| **Cipherlink** | Secure message encryption & sharing with local history tracking | React · Encryption | [Repo](https://github.com/Clement-coder/cipherlink) · [Live](https://cipherlink-delta.vercel.app/) |
+| **FansOnly** | Decentralized loyalty platform for creators with token-based rewards | Solidity · Web3 · NFTs | [Repo](https://github.com/Clement-coder/FansOnly) · [Live](https://fans-only-kd4t.vercel.app/) |
+| **Offramp API** | Scalable backend API for crypto-to-fiat off-ramp services | Node.js · API | [Repo](https://github.com/Clement-coder/offramp-api) · [Live](https://offramp-api.vercel.app/) |
+| **CropTrust** | Agriculture marketplace bridging farmers and buyers via blockchain | AgriTech · Web3 | [Repo](https://github.com/Clement-coder/Crop-Trust) · [Live](https://crop-trust.vercel.app/) |
+| **Kizo Gasless Wallet** | Starknet-native gasless wallet via Account Abstraction (ERC-4337) | Starknet · Cairo · Next.js | [Repo](https://github.com/Clement-coder/Kezo-Gasless-Wallet) · [Live](https://kezo-gasless-wallet.vercel.app/) |
+| **This Portfolio** | Personal dev portfolio — pixel-perfect, animated, fully responsive | React · Tailwind · Framer | [Repo](https://github.com/Clement-coder/clement-v2) · [Live](https://clemscoder.vercel.app/) |
+| **Web3 Contract Collection** | Production-grade Solidity contracts: DeFi, DAO, Hospital, Student | Solidity · Hardhat | [Repo](https://github.com/Clement-coder/web3-contract-collection) |
 
 ---
 
@@ -145,7 +150,7 @@ const clement = {
   <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://clement-raymond.vercel.app/">
+<a href="https://clemscoder.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-64FFDA?style=for-the-badge&logoColor=black" />
 </a>
 
